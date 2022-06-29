@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+# Cheminformatics-and-Drug-Discovery
+>>>>>>> 38a19b5f456441e750c70228ecc80b8f03e7f532
 ## Cheminformatics-and-Small-Molecule-Drug-Discovery
 
 This repository contains notebooks that will:
